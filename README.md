@@ -1,5 +1,5 @@
 # ProjectUnPOCO
-A Project made to restore original MIUI/HyperOS feelings to POCO ROMs 
+A Project made to restore original MIUI/HyperOS feelings on POCO ROMs 
 
 # Features
 Adds Stock Theme from Redmi Note 11S, includes icons, lockscreen wallpaper, and animated icons. 
