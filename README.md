@@ -11,7 +11,7 @@ Modded POCO launcher from HyperOS, with fixed crashes, enabled all features of H
 # Download
 Get latest release from
 
-https://github.com/R9TRH/ProjectUnPOCO/releases/tag/v1
+https://github.com/R9TRH/ProjectUnPOCO/releases/latest
 
 # Notes
 Don't forget to disable apk signature verification
