@@ -6,7 +6,7 @@ Adds Stock Theme from Redmi Note 11S, includes icons, lockscreen wallpaper, and 
 
 Adds Original App Vault Global; used for new Widgets Picker.
 
-Modded POCO launcher from HyperOS, with fixed crashes, enabled all features of High End Phones, and tweaks to make it look like original HyperOS Launcher.
+Modded POCO launcher from HyperOS, with fixed crashes, enabled all features (even new widgets) of High End Phones, and tweaks to make it look like original HyperOS Launcher.
 
 # Download
 Get latest release from
