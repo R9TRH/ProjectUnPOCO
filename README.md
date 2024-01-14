@@ -16,5 +16,9 @@ https://github.com/R9TRH/ProjectUnPOCO/releases/latest
 # Notes
 Don't forget to disable apk signature verification
 
+And have this module
+
+https://github.com/Mods-Center/Apk-Protection-Patch
+
 # Credits
 Kakashi1v1@Telegram for Helping me a lot
